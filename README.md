@@ -46,35 +46,35 @@ I've very active, writing content regularly to at least one of these.
 
 
 ## 💻 Work Experience
-- DevSkill, [Software Engineer], [01-07-2022]<br />
-  Communications with the foreign Clients to identify, understand the daily task and other functional dependencies.<br />
- Coordinate with the chief technology officer on current programming tasks<br />
- Collaborate with other programmers to design and implement features<br />
- Quickly produce well-organized, optimized, and documented source code<br />
- Debug existing source code and polish feature sets<br />
- Api integration in difference website<br />
- Work independently when required<br />
- Design pattern and MVC model <br>
- Technologies used: [PHP,Laravel,Javascript,Docker,Api].<br />
- - DevSkill, [Software Engineer Intern], [17-04-2022]<br />
- Coordinate with the Technical Director on current programming tasks<br />
- Responsible for Front-end and Back-end development coding.<br />
- Responsible for Back-end RESTful APIs Web Application Services.<br />
- Review, Modify and debug Code and Integration.<br />
- Collaborate with Internal team<br />
+**Software Engineer**<br/>
+ Dev Skill – Razia Plaza, Mirpur 10, Dhaka -1216, [01-07-2022]<br />
+ - Communications with the foreign Clients to identify, understand the daily task and other functional dependencies.<br />
+ - Coordinate with the chief technology officer on current programming tasks<br />
+ - Collaborate with other programmers to design and implement features<br />
+ - Quickly produce well-organized, optimized, and documented source code<br />
+ - Debug existing source code and polish feature sets<br />
+ - Api integration in difference website<br />
+ - Work independently when required<br />
+ - Design pattern and MVC model <br>
+ - Technologies used: [PHP,Laravel,Javascript,Docker,Api].<br />
+ - **Software Engineer Intern**<br/>
+ Dev Skill – Razia Plaza, Mirpur 10, Dhaka -1216,  [17-04-2022]<br />
+ - Coordinate with the Technical Director on current programming tasks<br />
+ - Responsible for Front-end and Back-end development coding.<br />
+ - Responsible for Back-end RESTful APIs Web Application Services.<br />
+ - Review, Modify and debug Code and Integration.<br />
+ - Collaborate with Internal team<br />
 
 
 ## 🎓 Education
-- University Name, [Degree], [Graduation Date]
-- University Name, [Degree], [Graduation Date]
+- United International Universit, [B.Sc.], [2021]
+- Dhaka Imperial College, [H.S.C], [2015]
 
 ## 📚 Training
-- [List of training courses you've completed]
-- [List of certifications you've earned]
+- [Web Application Development with Laravel at Dev skill Training Academy, Dhaka on Nov 2,
+2021 to Feb 20, 2022]
+- [DevOps Engineering at United International University, Dhaka on Sept 5 to Dec 5 2022.]
 
-## 🏆 Achievements
-- [List of professional achievements, such as awards, recognitions, or honors]
-- [List of projects you've completed that you're particularly proud of]
 
 ## 📈 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahidxr&label=Profile%20views&color=0e75b6&style=flat" alt="nahidxr" /> </p>
