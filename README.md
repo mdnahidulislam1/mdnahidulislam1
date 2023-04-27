@@ -74,10 +74,12 @@ _Code of project: 19IF12178_
 
 
 ## 🎓 Education
-- B.Sc. in Computer Science & Engineering, [2021]
-  _United International University, Dhaka, Bangladesh_
-- Higher Secondary (H.S.C) in Science Group, [2015]
+- B.Sc. in Computer Science & Engineering, [2021]<br/>
+  _United International University, Dhaka, Bangladesh_<br/>
+- Higher Secondary (H.S.C) in Science Group, [2015]<br/>
   _Dhaka Imperial College, Dhaka_
+ - Secondary School (S.S.C) in Science Group, [2013]
+  _Lemua High School_
 
 ## 📚 Training
 - [Web Application Development with Laravel at Dev skill Training Academy, Dhaka on Nov 2,
