@@ -57,14 +57,16 @@ I've very active, writing content regularly to at least one of these.
  - Work independently when required<br />
  - Design pattern and MVC model <br>
  - Technologies used: [PHP,Laravel,Javascript,Docker,Api].<br />
-**Software Engineer Intern**<br/>
+ 
+ **Software Engineer Intern**<br/>
  Dev Skill – Razia Plaza, Mirpur 10, Dhaka -1216,  [17-04-2022]<br />
  - Coordinate with the Technical Director on current programming tasks<br />
  - Responsible for Front-end and Back-end development coding.<br />
  - Responsible for Back-end RESTful APIs Web Application Services.<br />
  - Review, Modify and debug Code and Integration.<br />
  - Collaborate with Internal team<br />
-**Research Assistant**
+ 
+**Research Assistant**<br/>
 Ministry of Posts, Telecommunications and Information Technology, [03/2021 to 02/2022]
 _Code of project: 19IF12178_
  - Implement 2G and 4G private mobile network using Software Defined Radio devices
@@ -72,8 +74,10 @@ _Code of project: 19IF12178_
 
 
 ## 🎓 Education
-- United International Universit, [B.Sc.], [2021]
-- Dhaka Imperial College, [H.S.C], [2015]
+- B.Sc. in Computer Science & Engineering, [2021]
+  _United International University, Dhaka, Bangladesh_
+- Higher Secondary (H.S.C) in Science Group, [2015]
+  _Dhaka Imperial College, Dhaka_
 
 ## 📚 Training
 - [Web Application Development with Laravel at Dev skill Training Academy, Dhaka on Nov 2,
