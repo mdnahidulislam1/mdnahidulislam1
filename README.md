@@ -38,7 +38,7 @@ I've very active, writing content regularly to at least one of these.
 ## 🌟 Projects
  - School Management System: Developed whole school management system. Technologies used: [PHP, Laravel,Javascript,MySql].
  - Task Management App: Brief description of the project. Technologies used: [PHP,Laravel,MySql].
- - GOSHOP: Brief description of the project. Technologies used: [Python, Django,Javascript,Mysql].
+ - GOSHOP: Brief description of the project. Technologies used: [ Python, Django,Javascript,Mysql].
  - Ensure Your Land: Brief description of the project. Technologies used: [PHP,Laravel,AI,Mysql].
 
 ## 🛠️ Screenshots of Project
@@ -46,10 +46,17 @@ I've very active, writing content regularly to at least one of these.
 
 
 ## 💻 Work Experience
-- Company Name, [Job Title], [Employment Dates]<br />
-  Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].
-- Company Name, [Job Title], [Employment Dates]<br />
-  Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].
+- DevSkill, [Software Engineer], [17-04-2022]<br />
+-  Communications with the foreign Clients to identify, understand the daily task and other functional dependencies.
+- Coordinate with the chief technology officer on current programming tasks
+- Collaborate with other programmers to design and implement features
+- Quickly produce well-organized, optimized, and documented source code
+- Debug existing source code and polish feature sets
+- Api integration in difference website
+- Work independently when required
+- Design pattern and MVC model <br>
+ Technologies used: [PHP,Laravel,Javascript,Docker,Api].
+
 
 ## 🎓 Education
 - University Name, [Degree], [Graduation Date]
