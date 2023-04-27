@@ -13,8 +13,6 @@ I'm currently learning linux, AWS, Devops tools to improve my development skills
 - <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Software Development Process, Git/GitHub/Gerrit, Project Management & Strategy
 - <b>Technologies:</b> PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Illustrator, Figma
 
-## ⚡ Fun fact
-**I think I am funny**
 
 
 ## 📫 How to reach me
@@ -33,13 +31,13 @@ I'm currently learning linux, AWS, Devops tools to improve my development skills
 
 ## 🌟 Projects
 **School Management System**<br/>
- - Technologies used: [PHP, Laravel,Javascript,MySql].
+ - Technologies used: [PHP, Laravel,Javascript,MySql].<br/>
  **Task Management App**<br/>
- - Technologies used: [PHP,Laravel,MySql].
+ - Technologies used: [PHP,Laravel,MySql].<br/>
  **GOSHOP**<br/>
- - Technologies used: [ Python, Django,Javascript,Mysql].
+ - Technologies used: [ Python, Django,Javascript,Mysql].<br/>
  **Ensure Your Land**<br/>
- - Technologies used: [PHP,Laravel,AI,Mysql]
+ - Technologies used: [PHP,Laravel,AI,Mysql]<br/>
 
 ## 🛠️ Screenshots of Project
 <img alt="Project Work" height="200" src="https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif" style="max-width: 100%; display: inline-block;">
