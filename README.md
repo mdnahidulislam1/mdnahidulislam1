@@ -72,6 +72,12 @@ _Code of project: 19IF12178_
  - Implement 2G and 4G private mobile network using Software Defined Radio devices
  - Research and Development
 
+## 📚 Publication
+**2022 IEEE Region 10 Symposium (TENSYMP)**<br/>
+_S. A. Tasin, M. N. Islam, A. K. M. M. Islam and M. M. Zubaer, "Implementation of GSM and LTE Re-
+Configurable Cellular System Using USRP B200," 2022 IEEE Region 10 Symposium (TENSYMP), 2022, pp. 1-
+6, doi: 10.1109/TENSYMP54529.2022.9864506_
+
 
 ## 🎓 Education
 - B.Sc. in Computer Science & Engineering, [2021]<br/>
