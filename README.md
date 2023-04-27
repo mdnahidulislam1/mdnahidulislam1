@@ -46,16 +46,22 @@ I've very active, writing content regularly to at least one of these.
 
 
 ## 💻 Work Experience
-- DevSkill, [Software Engineer], [17-04-2022]<br />
--  Communications with the foreign Clients to identify, understand the daily task and other functional dependencies.
-- Coordinate with the chief technology officer on current programming tasks
-- Collaborate with other programmers to design and implement features
-- Quickly produce well-organized, optimized, and documented source code
-- Debug existing source code and polish feature sets
-- Api integration in difference website
-- Work independently when required
-- Design pattern and MVC model <br>
- Technologies used: [PHP,Laravel,Javascript,Docker,Api].
+- DevSkill, [Software Engineer], [01-07-2022]<br />
+  Communications with the foreign Clients to identify, understand the daily task and other functional dependencies.<br />
+ Coordinate with the chief technology officer on current programming tasks<br />
+ Collaborate with other programmers to design and implement features<br />
+ Quickly produce well-organized, optimized, and documented source code<br />
+ Debug existing source code and polish feature sets<br />
+ Api integration in difference website<br />
+ Work independently when required<br />
+ Design pattern and MVC model <br>
+ Technologies used: [PHP,Laravel,Javascript,Docker,Api].<br />
+ - DevSkill, [Software Engineer Intern], [17-04-2022]<br />
+ Coordinate with the Technical Director on current programming tasks<br />
+ Responsible for Front-end and Back-end development coding.<br />
+ Responsible for Back-end RESTful APIs Web Application Services.<br />
+ Review, Modify and debug Code and Integration.<br />
+ Collaborate with Internal team<br />
 
 
 ## 🎓 Education
