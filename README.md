@@ -30,14 +30,19 @@ I'm currently learning linux, AWS, Devops tools to improve my development skills
 
 
 ## 🌟 Projects
-**School Management System**<br/>
- - Technologies used: [PHP, Laravel,Javascript,MySql].<br/>
-**Task Management App**<br/>
- - Technologies used: [PHP,Laravel,MySql].<br/>
-**GOSHOP**<br/>
- - Technologies used: [ Python, Django,Javascript,Mysql].<br/>
-**Ensure Your Land**<br/>
- - Technologies used: [PHP,Laravel,AI,Mysql]<br/>
+
+- **School Management System**<br/>
+Technologies used: [PHP, Laravel,Javascript,MySql].<br/>
+- **Task Management App**<br/>
+Technologies used: [PHP,Laravel,MySql].<br/>
+- **GOSHOP**<br/>
+Technologies used: [ Python, Django,Javascript,Mysql].<br/>
+- **Ensure Your Land**<br/>
+Technologies used: [PHP,Laravel,AI,Mysql]<br/>
+- **Smart Shop**<br/>
+Language/Tools: PHP, Laravel, MySQL, jQuery, Bootstrap<br/>
+- **Bio Life**<br/>
+Language/Tools: PHP, Laravel, MySQL
 
 ## 🛠️ Screenshots of Project
 <img alt="Project Work" height="200" src="https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif" style="max-width: 100%; display: inline-block;">
@@ -65,8 +70,8 @@ I'm currently learning linux, AWS, Devops tools to improve my development skills
  - Collaborate with Internal team<br />
  
 **Research Assistant**<br/>
-Ministry of Posts, Telecommunications and Information Technology, [03/2021 to 02/2022]
-_Code of project: 19IF12178_
+Ministry of Posts, Telecommunications and Information Technology, [03/2021 to 02/2022]<br/>
+_Code of project: 19IF12178_<br/>
  - Implement 2G and 4G private mobile network using Software Defined Radio devices
  - Research and Development
 
