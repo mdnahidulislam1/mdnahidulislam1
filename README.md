@@ -32,11 +32,11 @@ I'm currently learning linux, AWS, Devops tools to improve my development skills
 ## 🌟 Projects
 **School Management System**<br/>
  - Technologies used: [PHP, Laravel,Javascript,MySql].<br/>
- **Task Management App**<br/>
+ - **Task Management App**<br/>
  - Technologies used: [PHP,Laravel,MySql].<br/>
- **GOSHOP**<br/>
+**GOSHOP**<br/>
  - Technologies used: [ Python, Django,Javascript,Mysql].<br/>
- **Ensure Your Land**<br/>
+**Ensure Your Land**<br/>
  - Technologies used: [PHP,Laravel,AI,Mysql]<br/>
 
 ## 🛠️ Screenshots of Project
