@@ -16,10 +16,6 @@ I'm currently learning linux, AWS, Devops tools to improve my development skills
 ## ⚡ Fun fact
 **I think I am funny**
 
-## 📝 Blogs and writing
-I've very active, writing content regularly to at least one of these.
-- [Blog Link]
-- [Blog Link]
 
 ## 📫 How to reach me
 <p align="left">
@@ -36,10 +32,14 @@ I've very active, writing content regularly to at least one of these.
 
 
 ## 🌟 Projects
- - School Management System: Developed whole school management system. Technologies used: [PHP, Laravel,Javascript,MySql].
- - Task Management App: Brief description of the project. Technologies used: [PHP,Laravel,MySql].
- - GOSHOP: Brief description of the project. Technologies used: [ Python, Django,Javascript,Mysql].
- - Ensure Your Land: Brief description of the project. Technologies used: [PHP,Laravel,AI,Mysql]
+**School Management System**<br/>
+ - Technologies used: [PHP, Laravel,Javascript,MySql].
+ **Task Management App**<br/>
+ - Technologies used: [PHP,Laravel,MySql].
+ **GOSHOP**<br/>
+ - Technologies used: [ Python, Django,Javascript,Mysql].
+ **Ensure Your Land**<br/>
+ - Technologies used: [PHP,Laravel,AI,Mysql]
 
 ## 🛠️ Screenshots of Project
 <img alt="Project Work" height="200" src="https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif" style="max-width: 100%; display: inline-block;">
