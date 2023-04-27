@@ -77,8 +77,8 @@ _Code of project: 19IF12178_
 - B.Sc. in Computer Science & Engineering, [2021]<br/>
   _United International University, Dhaka, Bangladesh_<br/>
 - Higher Secondary (H.S.C) in Science Group, [2015]<br/>
-  _Dhaka Imperial College, Dhaka_
- - Secondary School (S.S.C) in Science Group, [2013]
+  _Dhaka Imperial College, Dhaka_<br/>
+ - Secondary School (S.S.C) in Science Group, [2013]<br/>
   _Lemua High School_
 
 ## 📚 Training
