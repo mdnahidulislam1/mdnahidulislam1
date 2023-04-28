@@ -38,9 +38,9 @@ Technologies used: [ Python, Django,Javascript,Mysql].<br/>
 - **Ensure Your Land**<br/>
 Technologies used: [PHP,Laravel,AI,Mysql]<br/>
 - **Smart Shop**<br/>
-Language/Tools: PHP, Laravel, MySQL, jQuery, Bootstrap<br/>
+Language/Tools: [PHP, Laravel, MySQL, jQuery, Bootstrap[<br/>
 - **Bio Life**<br/>
-Language/Tools: PHP, Laravel, MySQL
+Language/Tools: [PHP, Laravel, MySQL]
 
 
 
@@ -98,7 +98,6 @@ Configurable Cellular System Using USRP B200," 2022 IEEE Region 10 Symposium (TE
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidxr&" alt="nahidxr" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahidxr" alt="nahidxr" /></a> </p>
 
-## 🏷️ Video Resources
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hexfXc7-SsU" target="_blank"><img src="http://img.youtube.com/vi/hexfXc7-SsU/0.jpg" alt="10 Udemy Courses Every Developer SHOULD Own" width="200" height="140" border="10" /></a>   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-OAa9k0zCDg" target="_blank"><img src="http://img.youtube.com/vi/-OAa9k0zCDg/0.jpg" alt="Tops 5 skills to get" width="200" height="140" border="10" /></a>
+
 
 
