@@ -96,10 +96,11 @@ Configurable Cellular System Using USRP B200," 2022 IEEE Region 10 Symposium (TE
 
 
 ## 📈 GitHub Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahidxr&label=Profile%20views&color=0e75b6&style=flat" alt="nahidxr" /> </p>
+<div align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=nahidxr&label=Profile%20views&color=0e75b6&style=flat" alt="nahidxr" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidxr&show_icons=true&locale=en" alt="nahidxr" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidxr&" alt="nahidxr" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahidxr" alt="nahidxr" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahidxr&column=7" alt="nahidxr" /></a> </p>
+</div>
 
 ## <g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> This Week I Spent My Time On
 <pre class="notranslate" style="position: relative;" lang="text">
