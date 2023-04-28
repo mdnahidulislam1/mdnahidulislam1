@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Nahidul Islam</h1>
+<h1 align="center">Hi there👋, I'm Md Nahidul Islam</h1>
 <h3 align="center">A passionate Software and DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -30,17 +30,17 @@
 ## 🌟 Projects
 
 - **School Management System**<br/>
-Technologies used: [PHP, Laravel,Javascript,MySql].<br/>
+Technologies used: PHP, Laravel,Javascript,MySql.<br/>
 - **Task Management App**<br/>
-Technologies used: [PHP,Laravel,MySql].<br/>
+Technologies used: PHP,Laravel,MySql.<br/>
 - **GOSHOP**<br/>
-Technologies used: [ Python, Django,Javascript,Mysql].<br/>
+Technologies used: Python, Django,Javascript,Mysql.<br/>
 - **Ensure Your Land**<br/>
-Technologies used: [PHP,Laravel,AI,Mysql]<br/>
+Technologies used: PHP,Laravel,AI,Mysql.<br/>
 - **Smart Shop**<br/>
-Language/Tools: [PHP, Laravel, MySQL, jQuery, Bootstrap[<br/>
+Language/Tools:PHP, Laravel, MySQL, jQuery, Bootstrap.<br/>
 - **Bio Life**<br/>
-Language/Tools: [PHP, Laravel, MySQL]
+Language/Tools:PHP, Laravel, MySQL.
 
 
 
