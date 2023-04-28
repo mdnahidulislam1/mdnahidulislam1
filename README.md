@@ -96,7 +96,7 @@ Configurable Cellular System Using USRP B200," 2022 IEEE Region 10 Symposium (TE
 
 
 ## 📈 GitHub Stats
-<div align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=nahidxr&label=Profile%20views&color=0e75b6&style=flat" alt="nahidxr" /> </p>
+<div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidxr&show_icons=true&locale=en" alt="nahidxr" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidxr&" alt="nahidxr" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahidxr&column=7" alt="nahidxr" /></a> </p>
