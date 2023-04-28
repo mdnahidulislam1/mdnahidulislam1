@@ -98,6 +98,16 @@ Configurable Cellular System Using USRP B200," 2022 IEEE Region 10 Symposium (TE
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidxr&" alt="nahidxr" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahidxr" alt="nahidxr" /></a> </p>
 
+## <g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> This Week I Spent My Time On
+<pre class="notranslate" style="position: relative;" lang="text">
+<code>
+Git          4 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
+Linux         3 hrs 35 mins  ██████████░░░░░░░░░░░░░░░   40.59 % 
+Docker  1 hr 34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Api          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+</code>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 
 
