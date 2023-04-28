@@ -18,7 +18,7 @@
 
 
 
-## 📫 How to reach me
+## 📫 Connect with me
 <p align="left">
 <a href="https://twitter.com/uks_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uks_77" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uks1977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uks1977" height="30" width="40" /></a>
