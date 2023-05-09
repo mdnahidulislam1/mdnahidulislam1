@@ -106,10 +106,10 @@ Configurable Cellular System Using USRP B200," 2022 IEEE Region 10 Symposium (TE
 <pre class="notranslate" style="position: relative;" lang="text">
 <code>
 Git          4 hrs 3 mins         ███████████▒░░░░░░░░░░░░░   44.70 % 
-Linux        3 hrs 35 mins        ██████████░░░░░░░░░░░░░░░   40.59 % 
+Jenkins      3 hrs 35 mins        ██████████░░░░░░░░░░░░░░░   40.59 % 
 Docker       1 hr 34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-CSS          3 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Api          2 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Linux        45 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Api          25 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 </code>
 <div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
